@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+   <html>
+   <head>
+     <title>PDF 预览</title>
+   </head>
+   <body>
+     <!-- 方法1：直接嵌入PDF -->
+     <embed src="./pdf/你的文件.pdf" type="application/pdf" width="100%" height="800px">
+
+     <!-- 方法2：使用iframe（备用方案） -->
+     <!-- <iframe src="./pdf/你的文件.pdf" width="100%" height="800px"></iframe> -->
+   </body>
+   </html>
