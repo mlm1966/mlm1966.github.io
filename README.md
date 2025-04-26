@@ -4,4 +4,4 @@
 
 
 
-[周刊第二十期.pdf](https://github.com/user-attachments/files/19921945/default.pdf?dl=1)
+[周刊第二十期.pdf](https://github.com/user-attachments/files/19921945/default.pdf)
