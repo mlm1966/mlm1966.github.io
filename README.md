@@ -8,3 +8,5 @@
 ![捕获](https://github.com/user-attachments/assets/cf9e8a19-21e0-49ea-a4c6-1da9b696de62)
 
 
+[InternetShortcut]
+URL=https://github.com/mlm1966/mlm1966.github.io/blob/main/files/%E6%8D%95%E8%8E%B7.PNG
