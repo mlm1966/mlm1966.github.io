@@ -12,3 +12,4 @@
 ![爱音]（https://github.com/mlm1966/mlm1966.github.io/blob/31373ffb2c06c024aff85b9e981e99fd9d0d5a38/files/%E6%8D%95%E8%8E%B7.PNG）
 ![爱音]（https://github.com/mlm1966/mlm1966.github.io/blob/main/files/%E6%8D%95%E8%8E%B7.PNG）
 ![爱音]（https://github.com/mlm1966/mlm1966.github.io/blob/main/files/%E6%8D%95%E8%8E%B7.PNG?raw=true）
+![image](https://github.com/user-attachments/assets/ff797e4b-f78e-438d-8359-0a9b85522027)
