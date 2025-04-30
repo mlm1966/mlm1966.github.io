@@ -12,4 +12,4 @@
 
 
 
-![捕获](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/%E6%8D%95%E8%8E%B7.PNG?raw=true)
+![捕获](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/捕获.png)
