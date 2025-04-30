@@ -1,6 +1,15 @@
 # 测试文本
-[周刊第二十期.pdf](https://mlm1966.github.io/main/pdf/周刊第二十期.pdf/preview.html)
+
+![捕获](https://github.com/user-attachments/assets/9f4523b9-a30c-42cf-b281-ca8e1e7972d6)
 
 
 
-[周刊第二十期.pdf](https://github.com/user-attachments/files/19922024/default.pdf)
+
+![捕获](https://github.com/user-attachments/assets/cf9e8a19-21e0-49ea-a4c6-1da9b696de62)
+
+
+
+
+
+
+
