@@ -47,7 +47,7 @@ https://f-droid.org/zh_Hans/packages/eu.siacs.conversations/
 下载链接：https://gajim.org/download/
 # 第二步：创建账户
 # 1.单击注册，注册界面输入用户名及服务器名后点注册即可
-![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程10k.jpg)
+![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程10k.png)
 
 # 2.输入用户名和服务器名
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程11k.jpg)
