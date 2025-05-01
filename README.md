@@ -32,12 +32,15 @@ https://f-droid.org/zh_Hans/packages/eu.siacs.conversations/
 
 
 # 三步：加入群聊/频道
+# 1.1.点击“加入公开频道”按钮
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程5k.jpg)
+# 1.2.在XMPP地址一栏中输入“马列毛主义墙内总群@muc.xmpp.earth”后，点击加入即可
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程6k.jpg)
-# 在XMPP地址一栏中输入“马列毛主义墙内总群@muc.xmpp.earth”后，点击加入即可
+# 2.1.或者点击发现在搜索框中“ 马列毛主义墙内总群” 后搜索即可
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程7k.jpg)
+# 2.2点击搜索按钮
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程8k.jpg)
-# 或者点击发现在搜索框中“ 马列毛主义墙内总群” 后搜索即可
+# 2.3点击加入“马列毛主义墙内总群”
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程9k.jpg)
 # 电脑客户端推荐：
 # 第一步：下载Gajim
