@@ -70,7 +70,7 @@ https://f-droid.org/zh_Hans/packages/eu.siacs.conversations/
 ## 
 
 
-![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程15k.png)
+![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程15k.jpg)
 
 
 
