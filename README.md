@@ -1,12 +1,12 @@
 # 加入总群——加入革命的斗争行列！
-## 移动客户端推荐：
+# 移动客户端推荐：
 下载途径：
 一、https://conversations.im/
 
 https://f-droid.org/zh_Hans/packages/eu.siacs.conversations/
 
 二、在资料库下载
-## 第二步：创建账号
+# 第二步：创建账号
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程1k.jpg)
 
 
@@ -31,18 +31,18 @@ https://f-droid.org/zh_Hans/packages/eu.siacs.conversations/
 
 
 
-## 三步：加入群聊/频道
+# 三步：加入群聊/频道
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程5k.jpg)
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程6k.jpg)
-### 在XMPP地址一栏中输入“马列毛主义墙内总群@muc.xmpp.earth”后，点击加入即可
+# 在XMPP地址一栏中输入“马列毛主义墙内总群@muc.xmpp.earth”后，点击加入即可
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程7k.jpg)
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程8k.jpg)
-### 或者点击发现在搜索框中“ 马列毛主义墙内总群” 后搜索即可
+# 或者点击发现在搜索框中“ 马列毛主义墙内总群” 后搜索即可
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程9k.jpg)
 # 电脑客户端推荐：
-## 第一步：下载Gajim
+# 第一步：下载Gajim
 下载链接：https://gajim.org/download/
-## 第二步：创建账户
+# 第二步：创建账户
 
 
 
