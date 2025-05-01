@@ -10,7 +10,7 @@ https://f-droid.org/zh_Hans/packages/eu.siacs.conversations/
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程1k.jpg)
 
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程2.1.1.jpg)
-
+## 服务器一览表：https://compliance.conversations.im/
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程2.2k.jpg)
 
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程3k.jpg)
