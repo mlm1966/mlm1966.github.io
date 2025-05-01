@@ -48,17 +48,22 @@ https://f-droid.org/zh_Hans/packages/eu.siacs.conversations/
 # 第二步：创建账户
 # 1.单击注册，注册界面输入用户名及服务器名后点注册即可
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程10k.jpg)
+
 # 2.输入用户名和服务器名
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程11k.jpg)
+
 # 第三步：进群方式
 # 单击左上角，下拉列表中选择账号，后选择添加联系人 
 # 点击“账号”按钮
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程12k.jpg)
+
 # 点击“添加联系人 ”
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程13k.jpg)
+
 # 最后在添加联系人对话框中输入总群地址：xmpp:马列毛主义墙内总群@muc.xmpp.earth
 # 单击后下一步加入即可
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程14k.jpg)
+
 # 最后附上网页端链接: https://conversejs.org/fullscreen.html
 # 网页端操作流程基本一致
 # 介绍：
