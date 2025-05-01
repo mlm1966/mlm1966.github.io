@@ -50,19 +50,19 @@ https://f-droid.org/zh_Hans/packages/eu.siacs.conversations/
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程10k.png)
 
 # 2.输入用户名和服务器名
-![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程11k.jpg)
+![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程11k.png)
 
 # 第三步：进群方式
 # 单击左上角，下拉列表中选择账号，后选择添加联系人 
 # 点击“账号”按钮
-![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程12k.jpg)
+![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程12k.png)
 
 # 点击“添加联系人 ”
-![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程13k.jpg)
+![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程13k.png)
 
 # 最后在添加联系人对话框中输入总群地址：xmpp:马列毛主义墙内总群@muc.xmpp.earth
 # 单击后下一步加入即可
-![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程14k.jpg)
+![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程14k（1）.png)
 
 # 最后附上网页端链接: https://conversejs.org/fullscreen.html
 # 网页端操作流程基本一致
@@ -70,7 +70,7 @@ https://f-droid.org/zh_Hans/packages/eu.siacs.conversations/
 ## 
 
 
-
+![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程15k.png)
 
 
 
