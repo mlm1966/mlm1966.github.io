@@ -62,7 +62,7 @@ https://f-droid.org/zh_Hans/packages/eu.siacs.conversations/
 
 # 最后在添加联系人对话框中输入总群地址：xmpp:马列毛主义墙内总群@muc.xmpp.earth
 # 单击后下一步加入即可
-![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程14k（1）.png)
+![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程14k（1）.jng)
 
 # 最后附上网页端链接: https://conversejs.org/fullscreen.html
 # 网页端操作流程基本一致
