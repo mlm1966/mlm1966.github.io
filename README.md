@@ -9,9 +9,10 @@ https://f-droid.org/zh_Hans/packages/eu.siacs.conversations/
 ## 第二步：创建账号
 ![image](https://github.com/user-attachments/assets/263c1352-4b34-4ad8-833a-514fc8b82b38)
 
+![image](https://github.com/mlm1966.github.io/blob/main/files/images -ccs.jpg)
 
+https://github.com/mlm1966/mlm1966.github.io/blob/main/files/images%20-ccs.jpg?raw=true
 
-
-
+files/images -ccs.jpg
 
 
