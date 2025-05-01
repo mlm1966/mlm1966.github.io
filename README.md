@@ -11,12 +11,12 @@ https://f-droid.org/zh_Hans/packages/eu.siacs.conversations/
 
 
 
-# 二.1
+# 1.选择“创建账号”
 
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程2.1.1.jpg)
 
 
-# 二.2
+# 2.
 
 
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程2.2k.jpg)
@@ -25,7 +25,7 @@ https://f-droid.org/zh_Hans/packages/eu.siacs.conversations/
 
 
 # 二.3
-![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程3k.jpg)
+
 
 
 
