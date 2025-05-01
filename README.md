@@ -100,11 +100,11 @@ https://f-droid.org/zh_Hans/packages/eu.siacs.conversations/
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程15k.jpg)
 
 # 加入方法：
-添加审核员账户
-点击添加联系人后在xmpp地址中输入审核员ID
-审核员ID如下：
-曹闯民@conversations.im
-绿林@jabber.fr
+## 添加审核员账户
+## 点击添加联系人后在xmpp地址中输入审核员ID
+## 审核员ID如下：
+### 曹闯民@conversations.im
+### 绿林@jabber.fr
 
 
 
