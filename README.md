@@ -63,6 +63,7 @@ https://f-droid.org/zh_Hans/packages/eu.siacs.conversations/
 # 最后在添加联系人对话框中输入总群地址：xmpp:马列毛主义墙内总群@muc.xmpp.earth
 # 3.单击后下一步加入即可
 
+![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/教程14k.png)
 
 
 
