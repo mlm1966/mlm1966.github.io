@@ -8,9 +8,13 @@ https://f-droid.org/zh_Hans/packages/eu.siacs.conversations/
 二、在资料库下载
 ## 第二步：创建账号
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程1k.jpg)
+
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程2.1.1.jpg)
+
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程2.2k.jpg)
+
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程3k.jpg)
+
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程4k.jpg)
 ## 三步：加入群聊/频道
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程5k.jpg)
