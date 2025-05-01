@@ -11,12 +11,12 @@ https://f-droid.org/zh_Hans/packages/eu.siacs.conversations/
 
 
 
-# 2.1
+# 二.1
 
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程2.1.1.jpg)
 
 
-# 2.2
+# 二.2
 
 
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程2.2k.jpg)
@@ -24,12 +24,12 @@ https://f-droid.org/zh_Hans/packages/eu.siacs.conversations/
 # 建议同志们多多更换服务器以达到去中心化的目的（更换服务器的方法为：注册账号时用户名后输入对应服务器名即可）
 
 
-# 2.3
+# 二.3
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程3k.jpg)
 
 
 
-# 2,4
+# 二.4
 
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程4k.jpg)
 
