@@ -19,6 +19,7 @@ https://f-droid.org/zh_Hans/packages/eu.siacs.conversations/
 
 
 # 服务器一览表：https://compliance.conversations.im/
+# 建议同志们多多更换服务器以达到去中心化的目的（更换服务器的方法为：注册账号时用户名后输入对应服务器名即可）
 ![image](https://github.com/mlm1966/mlm1966.github.io/blob/main/files/图片/教程2.2k.jpg)
 
 
